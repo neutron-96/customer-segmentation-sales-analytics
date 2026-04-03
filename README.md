@@ -1,6 +1,6 @@
 # Customer Segmentation and Sales Analytics for Retail Optimization
 
-![Cluster Profiles](images/cluster_profile.PNG)
+![Cluster Profiles](images/cluster_profile.png)
 
 ## Project Overview
 This project applies **RFM (Recency, Frequency, Monetary) analysis** and **K‑Means clustering** to segment customers of an online retail store. The goal is to identify high‑value customer groups, analyse sales trends and geographic patterns, and provide actionable recommendations for marketing and inventory strategies.
